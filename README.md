@@ -1,3 +1,7 @@
+# Project Resonance
+
+*Internet wide surveys to study and understand the security state of Internet as well as facilitate research into various components / topics which originate as a result of our surveys.*
+
 Hi there, 
 
 You are visting this page most probably because you saw this url in your logs. Well, nothing to worry. 
@@ -44,3 +48,4 @@ You can read more about this project at [https://redhuntlabs.com/project-resonan
 We suggest you to have a loot at our FAQ section in Please feel free to drop any of your questions to our email address: info@project-resonance.com
 
 Thanks for your time and patience.
+
