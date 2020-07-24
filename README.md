@@ -41,8 +41,6 @@ And if you would not like any of our further probes, please drop us an email at 
 
 Please make sure that you include the list of IP Addresses / IP Ranges which you would like to get excluded. Once we hear from you, we will simply put your IP Ranges on our exclusion list and you will never see any probe from us. 
 
-### Want to Read More?
-You can read more about this project at [https://redhuntlabs.com/project-resonance](https://redhuntlabs.com/project-resonance). If you are interested to see what kind of datasets are released, please check out [https://redhuntlabs.com/project-resonance-datasets](https://redhuntlabs.com/project-resonance-datasets).
 
 ### Got some other questions?
 We suggest you to have a loot at our FAQ section in Please feel free to drop any of your questions to our email address: info@project-resonance.com
