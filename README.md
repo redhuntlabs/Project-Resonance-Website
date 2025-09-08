@@ -2,6 +2,8 @@
 
 *Internet wide surveys to study and understand the security state of Internet as well as facilitate research into various components / topics which originate as a result of our surveys.*
 
+[![Navigate to Project Resonance](https://img.shields.io/badge/➜%20Navigate%20to-Project%20Resonance-D72638?style=for-the-badge)](https://research.redhuntlabs.com/resonance)
+
 Hi there, 
 
 You are visting this page most probably because you saw this url in your logs. Well, nothing to worry. 
