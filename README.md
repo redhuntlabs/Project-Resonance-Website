@@ -2,6 +2,12 @@
 
 *Internet wide surveys to study and understand the security state of Internet as well as facilitate research into various components / topics which originate as a result of our surveys.*
 
+<a href="https://research.redhuntlabs.com/resonance" target="_blank" rel="noopener" style="
+  display:inline-block;padding:8px 14px;border-radius:9999px;
+  background:#D72638;color:#fff;text-decoration:none;font-weight:600;">
+  ➜ Navigate to Project Resonance
+</a>
+
 Hi there, 
 
 You are visting this page most probably because you saw this url in your logs. Well, nothing to worry. 
